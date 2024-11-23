@@ -2,13 +2,6 @@
 
 A simple web-based temperature converter that allows users to convert temperatures between Celsius and Fahrenheit.
 
-## Table of Contents
-- [About the Project](#about-the-project)
-- [Features](#features)
-- [Getting Started](#getting-started)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## About the Project
 The TemperatureConverter project is designed to quickly and accurately convert temperatures between Celsius and Fahrenheit. This project is created using HTML, CSS, and JavaScript.
